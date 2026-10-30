@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Advisor Bot",
+  "description": "Production-ready personal finance advisor bot featuring ledger tracking, dynamic budgeting, savings goals, AI-driven health audits, conversational financial advisory, and academic viva suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
