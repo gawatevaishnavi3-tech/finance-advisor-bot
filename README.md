@@ -1,5 +1,9 @@
 # 💰 Personal Finance Advisor Bot
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://gawatevaishnavi3-tech.github.io/finance-advisor-bot/)
+
+> **🚀 Live Deployed App**: [https://gawatevaishnavi3-tech.github.io/finance-advisor-bot/](https://gawatevaishnavi3-tech.github.io/finance-advisor-bot/)
+
 A production-ready, full-stack personal finance management and AI advisor web application. Built with **React 19**, **TypeScript**, **Tailwind CSS**, **Node.js (Express)**, and powered by Google's **Gemini API** (`gemini-3.8-flash`) with a resilient deterministic heuristic fallback engine.
 
 ---
